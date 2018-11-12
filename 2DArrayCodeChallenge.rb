@@ -28,4 +28,4 @@ multi [2][5] = -8
 
 
 
-puts  multi + '\n'
+puts  multi 
